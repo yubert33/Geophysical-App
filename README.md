@@ -17,3 +17,6 @@ Aplicación web para visualización, análisis e interpretación de registros de
 ### 2. Instalar Dependencias
 ```bash
 pip install streamlit pandas matplotlib numpy scipy scikit-learn seaborn plotly openpyxl joblib lasio xlrd
+
+### 3. Ejecutar App
+streamlit run GeoApp.py
