@@ -8,14 +8,11 @@ Aplicación web para visualización, análisis e interpretación de registros de
 - 📈 Análisis estadístico integrado
 - 📋 Generación de reportes automáticos
 
-## ⚡ Instalación Rápida
-
 ### 1. Requisitos Previos
 - Python 3.8 o superior
 - pip (gestor de paquetes de Python)
 
-### 2. Instalar Dependencias
-```bash
+### 2. Requisitos Previos
 pip install streamlit pandas matplotlib numpy scipy scikit-learn seaborn plotly openpyxl joblib lasio xlrd
 
 ### 3. Ejecutar App
